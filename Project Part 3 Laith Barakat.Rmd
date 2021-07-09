@@ -17,8 +17,8 @@ Read in the files and load relevant libraries
 library(readxl)
 library(tidyverse)
 setwd('C:/Users/Laith/Documents/SpringSem20/Stat Modeling')
-FAA1 <- read_xls('FAA1-1.xls')
-FAA2 <- read_xls('FAA2-1.xls')
+FAA1 <- read_xls('https://github.com/barakalz/FAA-stat-modeling/blob/c2c8e7428c78792401d0e425ee491d7b074333aa/FAA1-1.xls')
+FAA2 <- read_xls('https://github.com/barakalz/FAA-stat-modeling/blob/c2c8e7428c78792401d0e425ee491d7b074333aa/FAA2-1.xls')
 ```
 
 
